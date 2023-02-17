@@ -3,4 +3,4 @@ Desafio de conclusão do segundo módulo do curso de desenvolvimento intensivo d
 
 ## Rodar localmente
 
-Para testar localmente basta instalar o projeto e suas dependências e abrir o arquivo index.html. 
+Para testar localmente basta clonar o projeto, instalar suas dependências e abrir o arquivo index.html. 
